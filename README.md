@@ -1,3 +1,3 @@
 # Pierwszy projekt git
 
-## Aplikacja dla osob dorosłych
+## Aplikacja dla osob dorosłych w Pythonie
